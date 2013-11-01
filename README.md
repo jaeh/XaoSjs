@@ -1,6 +1,6 @@
 # Try It
 
-[Try](jblang.github.io/XaoSjs) the live demo!
+[Try](http://jblang.github.io/XaoSjs) the live demo!
 
 # About
 
